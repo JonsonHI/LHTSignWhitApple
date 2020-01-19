@@ -1,0 +1,16 @@
+PODS:
+  - LHTSignWhitApple (0.1.0)
+
+DEPENDENCIES:
+  - LHTSignWhitApple (from `../`)
+
+EXTERNAL SOURCES:
+  LHTSignWhitApple:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LHTSignWhitApple: c665b1ed4fe926ce8d0ef134fbafbfe390c3a2b9
+
+PODFILE CHECKSUM: 06b297dc70c10fb0f96590ae06bfaf9f4c555c6e
+
+COCOAPODS: 1.8.4
