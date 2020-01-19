@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LHTSignWhitApple'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of LHTSignWhitApple.'
+  s.summary          = 'This is an Apple login.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
