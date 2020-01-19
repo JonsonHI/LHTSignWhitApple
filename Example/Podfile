@@ -1,6 +1,0 @@
-use_frameworks!
-target 'LHTSignWhitApple_Tests' do
-  pod 'LHTSignWhitApple', :path => '../'
-  
-  
-end
