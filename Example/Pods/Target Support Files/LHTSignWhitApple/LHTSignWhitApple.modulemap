@@ -1,0 +1,6 @@
+framework module LHTSignWhitApple {
+  umbrella header "LHTSignWhitApple-umbrella.h"
+
+  export *
+  module * { export * }
+}

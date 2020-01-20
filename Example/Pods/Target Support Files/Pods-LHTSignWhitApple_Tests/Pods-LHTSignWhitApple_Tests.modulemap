@@ -1,0 +1,6 @@
+framework module Pods_LHTSignWhitApple_Tests {
+  umbrella header "Pods-LHTSignWhitApple_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
